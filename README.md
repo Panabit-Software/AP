@@ -38,6 +38,9 @@
 ---
 
 ## 3. 设备选型指南
+
+## [Panabit AP规格书下载](Specification)
+
  ![步骤1](pics/AP.png)
 
 
