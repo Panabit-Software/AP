@@ -1,4 +1,7 @@
-[中文](README.zh.md) | [English](README.en.md)
+<p>
+    <a href="README.md">中文<a/>|  English   
+</p>
+
 
 # Panabit AP Overview  
 
