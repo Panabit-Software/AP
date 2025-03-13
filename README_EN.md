@@ -41,7 +41,7 @@
 ---
 
 ## 3. Model Selection Guide
-[Get Panabit AP Specification](Specification_EN)
+### [Get Panabit AP Specification](Specification_EN)
 
 |       Specification       |  PAP-WM320  |  PAP-XM320  |  PAP-X3380  |  PAP-WM110  |  PAP-WM210  |  PAP-XM220  |  PAP-Q2267  |
 |:-------------------------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
