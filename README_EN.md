@@ -117,6 +117,5 @@ Choose the right model based on your usage scenario:
 
 ---
 
-[中文](README.zh.md) | [English](README.en.md)
 
 
