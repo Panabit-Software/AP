@@ -41,7 +41,8 @@
 ---
 
 ## 3. Model Selection Guide
-Get[Panabit AP Specification](Specification_EN)
+[Get Panabit AP Specification](Specification_EN)
+
 Choose the right model based on your usage scenario:
 
 ### 1️⃣ Large Space (Ceiling-Mount AP)
