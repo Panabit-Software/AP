@@ -39,7 +39,7 @@
 
 ## 3. 设备选型指南
 
-## 点击[获取Panabit AP规格书](Specification)
+### 点击[获取Panabit AP规格书](Specification)
 
  ![步骤1](pics/AP.png)
 
