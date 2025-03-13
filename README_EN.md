@@ -43,6 +43,15 @@
 ## 3. Model Selection Guide
 [Get Panabit AP Specification](Specification_EN)
 
+|       Specification       |  PAP-WM320  |  PAP-XM320  |  PAP-X3380  |  PAP-WM110  |  PAP-WM210  |  PAP-XM220  |  PAP-Q2267  |
+|:-------------------------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+|        **AP Model**       |  Panel AP  | Ceiling AP | Ceiling AP |  Panel AP  |  Panel AP  | Ceiling AP | Outdoor AP |
+|    **Max Wi-Fi Rate**     | 1800 Mbps  | 1800 Mbps  | 3000 Mbps  | 300 Mbps   | 1200 Mbps  | 1200 Mbps  | 1800 Mbps  |
+|     **Wi-Fi Standard**    |   Wi-Fi 6  |   Wi-Fi 6  |   Wi-Fi 6  |   Wi-Fi 5  |   Wi-Fi 5  |   Wi-Fi 5  |   Wi-Fi 6  |
+|  **Max Concurrent Users** |    512     |    512     |    512     |     128    |     256    |     256    |     512    |
+|   **Ethernet Ports**      |     2      |     2      |     2      |     1      |     2      |     2      |     2      |
+
+
 Choose the right model based on your usage scenario:
 
 ### 1️⃣ Large Space (Ceiling-Mount AP)
