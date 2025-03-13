@@ -1,7 +1,7 @@
 <p>
     中文| <a href="README_EN.md"> English <a/> 
       
-# Panabit AP 概述  
+# Panabit AP 介绍  
 
 ## 1. 为什么选择 Panabit 无线 AP？
 
