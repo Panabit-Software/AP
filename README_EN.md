@@ -62,7 +62,7 @@ Choose the right model based on your usage scenario:
 - **Hidden installation** for a clean look
 
 ### 2️⃣ Small Rooms (Wall-Mount AP)
-📍 **Scenario**: Hotel rooms, private offices  
+📍 **Scenario**: Hotel rooms, private offices、bedroom  
 💡 **Features**:
 - Replaces standard network wall panels
 - Built-in LAN port for computers/TVs
@@ -81,18 +81,18 @@ Choose the right model based on your usage scenario:
 
 ### 📱 Mobile Management Toolkit
 - **Real-time device monitoring**
-- **Remote reboot & firmware upgrade**
+- **Remote configuration & firmware upgrade**
 - **Instant failure alerts**
 
 ### 🚀 Intelligent Optimization Technology
-- **Night mode**: Automatically lowers signal strength to save energy
+- **Night mode**: Automatically turn on/off to save energy
 - **Interference avoidance**: Automatically switches to less congested channels
 - **Seamless WiFi handover**: Ensures smooth video conferencing without drops
 
 ### 🔒 Security Protection
-- **Isolated networks for different departments**
-- **Set WiFi availability by time schedule**
-- **Latest encryption technology to prevent hacking**
+- **Supports wireless client isolation**
+- **WiFi with scheduled access**
+- **WPA3 encryption with smart crack prevention**
 
 ---
 
