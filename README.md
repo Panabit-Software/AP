@@ -1,132 +1,141 @@
 <p>
-    中文| <a href="README_EN.md"> English <a/> 
-      
-# Panabit AP 介绍  
+    <a href="README_CN.md">中文<a/>|  English   
+</p>
 
-# 目录
 
-- [1. 为什么选择 Panabit 无线 AP？](#1-为什么选择-panabit-无线-ap)
-- [2. 四大核心优势](#2-四大核心优势)
-- [3. 设备选型指南](#3-设备选型指南)
-- [4. 智能管理功能](#4-智能管理功能)
-- [5. 典型应用场景](#5-典型应用场景)
-- [6. 服务与支持](#6-服务与支持)
+# Panabit AP Overview  
 
-## 1. 为什么选择 Panabit 无线 AP？
+# Table of Contents
 
-### 🔥 传统企业网络的常见问题
-- **设备昂贵 & 布线复杂**
-- **多个网点联网不稳定**
-- **网络管理和维护耗时费力**
+- [1. Why Choose Panabit Wireless AP?](#1-why-choose-panabit-wireless-ap)
+- [2. Four Core Advantages](#2-four-core-advantages)
+- [3. Model Selection Guide](#3-model-selection-guide)
+- [4. Smart Management Features](#4-smart-management-features)
+- [5. Typical Application Scenarios](#5-typical-application-scenarios)
+- [6. Support & Services](#6-support--services)
 
-### ✅ 我们的解决方案
-- **无需额外购买控制设备**
-- **手机即可管理全国网点**
-- **恶劣天气也能稳定联网**
 
----
+## 1. Why Choose Panabit Wireless AP?
 
-## 2. 四大核心优势
+### 🔥 Common Issues in Traditional Enterprise Networks
+- **Expensive devices & complex wiring**
+- **Unstable connections across multiple locations**
+- **Time-consuming network management & maintenance**
 
-| **优势**  | **解决的问题**  | **实现方式**  |
-|-----------|---------------|-------------|
-| **省钱省事** | 降低设备采购 & 维护成本 | 无需专用控制器，插电即用 |
-| **快速部署** | 新设备半小时内完成配置 | 自动识别网络环境 |
-| **稳定互联** | 异地办公室像在同一个局域网 | 智能组网技术 + 多重备份 |
-| **全场景适配** | 适用于办公室、户外等 | 提供三种专用型号 |
+### ✅ Our Solution
+- **No need for extra control equipment**
+- **Manage nationwide networks from your mobile phone**
+- **Stable connectivity even in harsh weather conditions**
 
 ---
 
-## 3. 设备选型指南
+## 2. Core Advantages
 
-### 点击[获取Panabit AP规格书](Specification)
-
- ![步骤1](pics/AP.png)
-
-
-根据使用场景选择合适型号：
-
-### 1️⃣ 大空间专用（吸顶式 AP）
-📍 **适用场景**：办公室、会议室、教室  
-💡 **特点**：
-- **最高支持 300 人同时在线**
-- **覆盖 100-150㎡ 空间**
-- **隐藏式安装，外观整洁**
-
-### 2️⃣ 小房间专用（面板式 AP）
-📍 **适用场景**：酒店客房、独立办公室、卧室     
-💡 **特点**：
-- **替换普通网络面板**
-- **自带下联网口，可连接电脑/电视**
-- **美观不占空间**
-
-### 3️⃣ 户外专用（防水 AP）
-📍 **适用场景**：园区、景区、停车场  
-💡 **特点**：
-- **防风、防水、防雷击**
-- **可在 -30℃~60℃ 环境下正常工作**
-- **支持网线供电（PoE），无需单独电源**
+| **Advantage**  | **Problem Solved**  | **Implementation**  |
+|---------------|-------------------|-------------------|
+| **Cost-Efficient** | Lower hardware & maintenance cost | No dedicated controller needed, plug-and-play |
+| **Quick Deployment** | Set up new devices in under 30 minutes | Auto-detects network environment |
+| **Stable Connectivity** | Remote offices function like a local network | Smart networking + multi-backup mechanisms |
+| **Full-Scenario Adaptability** | Suitable for offices, outdoors, and more | Three dedicated models available |
 
 ---
 
-## 4. 智能管理功能
+## 3. Model Selection Guide
+### [Get Panabit AP Specification](Specification_EN)
 
-### 📱 手机管理三件套
-- **实时查看设备状态**
-- **远程配置 & 升级**
-- **接收故障报警**
+|       Specification       |  PAP-WM320  |  PAP-XM320  |  PAP-X3380  |  PAP-WM110  |  PAP-WM210  |  PAP-XM220  |  PAP-Q2267  |
+|:-------------------------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+|        **AP Model**       |  Panel AP  | Ceiling AP | Ceiling AP |  Panel AP  |  Panel AP  | Ceiling AP | Outdoor AP |
+|    **Max Throughput**     | 1800 Mbps  | 1800 Mbps  | 3000 Mbps  | 300 Mbps   | 1200 Mbps  | 1200 Mbps  | 1800 Mbps  |
+|     **Wi-Fi Standard**    |   Wi-Fi 6  |   Wi-Fi 6  |   Wi-Fi 6  |   Wi-Fi 5  |   Wi-Fi 5  |   Wi-Fi 5  |   Wi-Fi 6  |
+|  **Max Concurrent Users** |    512     |    512     |    512     |     128    |     256    |     256    |     512    |
+|   **Ethernet Ports**      |     2      |     2      |     2      |     1      |     2      |     2      |     2      |
 
-### 🚀 自动优化黑科技
-- **夜间模式**：定期开启/关闭信号强度，节省能耗
-- **信号干扰规避**：自动检测雷达干扰频段，规避干扰信道
-- **无缝 WiFi 切换**：802.11kvr快速漫游，视频会议不断线
 
-### 🔒 安全防护
-- **支持无线用户隔离**
-- **WiFi 可设定开放时间段**
-- **WPA3加密技术，防止破解**
+Choose the right model based on your usage scenario:
 
----
+### 1️⃣ Large Space (Ceiling-Mount AP)
+📍 **Scenario**: Offices, conference rooms, classrooms  
+💡 **Features**:
+- Supports up to **300 concurrent users**
+- Covers **100-150㎡**
+- **Hidden installation** for a clean look
 
-## 5. 典型应用场景
+### 2️⃣ Small Rooms (Wall-Mount AP)
+📍 **Scenario**: Hotel rooms, private offices、bedroom  
+💡 **Features**:
+- Replaces standard network wall panels
+- Built-in LAN port for computers/TVs
+- Compact & space-saving
 
-### 🏪 **连锁超市组网方案**
-📌 **需求**：总部需实时查看各门店监控  
-✅ **方案**：
-- 每个门店安装 **1 台吸顶式 AP**
-- 通过智能组网连接总部
-- **宽带故障自动切换 4G 备用网络**
-
-### 🏥 **医院无线方案**
-📌 **需求**：确保 **医疗设备优先联网**  
-✅ **方案**：
-- 诊疗区采用 **吸顶式 AP**，确保网络覆盖
-- **医疗设备专用通道**，保证稳定连接
-- **患者 WiFi 限速**，保障医疗设备流畅运行
-
-### 🏨 **酒店网络改造**
-📌 **需求**：确保 **每个客房独立 WiFi，不串号**  
-✅ **方案**：
-- 每个房间安装 **面板式 AP**
-- **电视 & 电话共用网络**
-- **客人扫码自助上网**
+### 3️⃣ Outdoor (Weatherproof AP)
+📍 **Scenario**: Parks, campuses, parking lots  
+💡 **Features**:
+- **Windproof, waterproof, lightning-proof**
+- Operates in **-30°C to 60°C**
+- Supports **PoE** (no separate power supply needed)
 
 ---
 
-## 6. 服务与支持
+## 4. Smart Management Features
 
-### 🛠️ **技术支持**
-📞 **7×12 小时客服热线**：400-773-3996  
-📧 **技术支持邮箱**：support@panabit.com  
+### 📱 Mobile Management Toolkit
+- **Real-time device monitoring**
+- **Remote configuration & firmware upgrade**
+- **Instant failure alerts**
 
-### 🔄 **售后服务**
-- **全国 7 大区域办事处**，提供本地化响应
-- **硬件质保期内免费更换**
+### 🚀 Intelligent Optimization Technology
+- **Night mode**: Automatically turn on/off to save energy
+- **Interference avoidance**: Automatically switches to less congested channels
+- **Seamless WiFi handover**: Ensures smooth video conferencing without drops
 
-### 📚 **文档与社区**
-- **提供产品白皮书 & 部署指南**
-- **技术论坛**：[bbs.panabit.com](https://bbs.panabit.com)
+### 🔒 Security Protection
+- **Supports wireless client isolation**
+- **WiFi with scheduled access**
+- **WPA3 encryption with smart crack prevention**
 
 ---
+
+## 5. Typical Application Scenarios
+
+### 🏪 **Chain Supermarket Networking**
+📌 **Requirement**: HQ needs real-time access to store surveillance  
+✅ **Solution**:
+- Each store installs **one ceiling-mount AP**
+- APs connect to HQ through smart networking
+- **4G backup** automatically kicks in if broadband fails
+
+### 🏥 **Hospital Wireless Solution**
+📌 **Requirement**: Ensure **priority connectivity** for medical devices  
+✅ **Solution**:
+- **Ceiling-mount APs** in treatment areas for stable coverage
+- **Dedicated channel** for medical devices
+- **Bandwidth limits** for patient WiFi to ensure smooth operation
+
+### 🏨 **Hotel Network Upgrade**
+📌 **Requirement**: Each room should have **dedicated WiFi without interference**  
+✅ **Solution**:
+- Install **wall-mount APs** in each room
+- **Shared network** for TVs & phones
+- **Self-service guest WiFi access via QR code**
+
+---
+
+## 6. Support & Services
+
+### 🛠️ **Technical Support**
+📞 **7×12-hour hotline**: 400-773-3996  
+📧 **Support email**: support@panabit.com  
+
+### 🔄 **After-Sales Service**
+- **7 regional offices** for **localized support**
+- **Free hardware replacement** within warranty
+
+### 📚 **Documentation & Community**
+- **Product whitepapers & deployment guides**
+- **Technical forum**: [bbs.panabit.com](https://bbs.panabit.com)
+
+---
+
 
 
