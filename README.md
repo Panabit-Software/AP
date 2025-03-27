@@ -124,7 +124,7 @@ Choose the right model based on your usage scenario:
 ## 6. Support & Services
 
 ### 🛠️ **Technical Support**
-📞 **7×12-hour hotline**: 400-773-3996  
+📞 **7×12-hour hotline**: +86-400-773-3996  
 📧 **Support email**: support@panabit.com  
 
 ### 🔄 **After-Sales Service**
